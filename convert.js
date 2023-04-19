@@ -134,7 +134,7 @@
 // }
 
 
-let fruta = String(prompt('Ingrese una fruta')).toLowerCase().trim(); // toUpperCase() convierte a minuscula
+let fruta = String(prompt('Ingrese una fruta')).toLowerCase().trim(); // toUpperCase() convierte a minuscula  
 
 switch (fruta) {
     case 'pera':
