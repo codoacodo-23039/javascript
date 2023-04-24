@@ -136,6 +136,7 @@
 
 let fruta = String(prompt('Ingrese una fruta')).toLowerCase().trim(); // toUpperCase() convierte a minuscula
 
+
 switch (fruta) {
     case 'pera':
         document.write('Soy una pera');
