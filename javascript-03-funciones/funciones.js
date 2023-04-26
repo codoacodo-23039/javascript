@@ -10,17 +10,18 @@ function sumarDosNumeros(numero1, numero2) { //Parametros
 function restarDosNumeros(numero1, numero2) {
     //console.log(`la resta de dos numeros: ${numero1 - numero2}`);
     let resta = numero1 - numero2;
-    return resta; 
+    return resta;
 }
 
 function multiplicarDosNumeros(numero1, numero2) {
     //console.log(`la multiplicacion de dos numeros: ${numero1 * numero2}`);
     let multiplicacion = numero1 * numero2;
-    return multiplicacion; 
+    return multiplicacion;
 }
 
 function dividirDosNumeros(numero1, numero2) {
     //console.log(`la division de dos numeros: ${numero1 / numero2}`);
     let division = numero1 / numero2;
-    return division; 
+    return division;
 }
+
