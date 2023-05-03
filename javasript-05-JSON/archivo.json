@@ -1,0 +1,16 @@
+{
+    "peliculas":[
+        {
+            "id":1,
+            "titulo":"El señor de los anillos"
+        },
+        {
+            "id":2,
+            "titulo":"Harry Potter"
+        },
+        {
+            "id":3,
+            "titulo":"El hobbit"
+        }
+    ]
+}
